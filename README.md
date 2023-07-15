@@ -1,3 +1,5 @@
+![Header](Images/Header.png)
+
 # Weather-Api-Visualizations
 
 This project presents a collection of visualizations displaying weather data
@@ -12,7 +14,7 @@ speeds.
   wind speeds for the over 500 randomly selected cities.
 - Informative Plots: The plots provide a clear and concise representation of the weather data, making it easy to interpret the trends and patterns.
 
-### Folders: 
+### Relevant Folders: 
 
 - Notebooks: This folder contains two notebooks; one for the process of
   obtaining the cities via OpenWeather API (WeatherApi.ipynb), and another for visualizing the data (Weather-Analysis.ipynb).
