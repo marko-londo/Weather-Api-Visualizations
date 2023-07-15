@@ -16,5 +16,5 @@ speeds.
 
 - Notebooks: This folder contains two notebooks; one for the process of
   obtaining the cities via OpenWeather API (WeatherApi.ipynb), and another for visualizing the data (Weather-Analysis.ipynb).
-- Plots: This folder contains the plots used in the notebooks.
+- Plots: This folder contains the plots generated and used in the notebooks.
 - Resources: This folder contains the CSV files used in the notebooks.
